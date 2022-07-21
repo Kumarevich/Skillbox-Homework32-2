@@ -1,0 +1,92 @@
+{
+  "Hobo with a Shotgun":
+  [{
+    "Cast":
+    {
+      "Brian Downey":"Drake",
+      "Pasha Ebrahimi":"Bumfight Filmmaker",
+      "Robb Wells":"Logan",
+      "Rutger Hauer":"Hobo"},
+    "Crew":
+    {
+      "Companies":"Rhombus Media, Whizbang Films, Yer Dead Productions",
+      "Country":"Canada, USA",
+      "Director":"Jason Eisener",
+      "Producer":"Rob Cotterill",
+      "Writers":"John Davies",
+      "Year":"2011"}}],
+
+  "Lesbian Vampire Killers":
+  [{
+    "Cast":
+  {
+    "Emma Clifford":"Ms Rossi",
+    "James Corden":"Fletch",
+    "Louise Dylan":"Anke",
+    "Travis Oliver":"Steve"},
+    "Crew":
+    {
+      "Companies":"Alliance Films, Momentum Pictures, Velvet Bite",
+      "Country":"United Kingdom",
+      "Director":"Phil Claydon",
+      "Producer":"Steve Clark-Hall",
+      "Writers":"Stewart Williams, Paul Hupfield",
+      "Year":"2009"}}],
+
+  "Blind Fury":
+  [{
+    "Cast":
+    {
+      "Rutger Hauer":"Nick Parker",
+      "Terry O'Quinn":"Frank Devereaux",
+      "Lisa Blount":"Annie Winchester",
+      "Nick Cassavetes":"Lyle Pike"},
+    "Crew":
+    {
+      "Companies":"TriStar Pictures, Interscope Communications, Daniel Grodnik Productions",
+      "Country":"USA, Australia",
+      "Director":"Phillip Noyce",
+      "Producer":"Tim Matheson",
+      "Writers":"Charles Robert Carner",
+      "Year":"1989"
+    }
+  }],
+
+  "True Lies":
+  [{
+    "Cast":
+    {
+      "Arnold Schwarzenegger":"Harry",
+      "Jamie Lee Curtis":"Helen",
+      "Tom Arnold":"Gib",
+      "Bill Paxton":"Simon"},
+    "Crew":
+    {
+      "Companies":"TriStar Pictures, Interscope Communications, Daniel Grodnik Productions",
+      "Country":"USA",
+      "Director":"James Cameron",
+      "Producer":"James Cameron",
+      "Writers":"James Cameron",
+      "Year":"1994"
+    }
+  }],
+
+  "Predator":
+  [{
+    "Cast":
+    {
+      "Arnold Schwarzenegger":"Dutch",
+      "Carl Weathers":"Dillon",
+      "Elpidia Carrillo":"Anna",
+      "Bill Duke":"Mac"},
+    "Crew":
+    {
+      "Companies":"Twentieth Century Fox",
+      "Country":"USA",
+      "Director":"John McTiernan",
+      "Producer":"John Davis",
+      "Writers":"Jim Thomas, John Thomas",
+      "Year":"1987"
+    }
+  }]
+}
